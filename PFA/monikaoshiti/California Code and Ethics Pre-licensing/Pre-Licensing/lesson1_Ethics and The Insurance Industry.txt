@@ -1,0 +1,359 @@
+1.Ethics and The Insurance Industry
+
+保险业的核心建立在信任之上。
+道德规范（Ethics）在保险业中至关重要，它确保代理人、经纪人与公司在处理保单、核保及理赔时保持透明、公平与诚信，
+从而保护保户的合法权益并维持金融市场的稳定。
+
+保险业的道德核心原则
+1.最大诚信原则 (Utmost Good Faith)
+       保险交易双方必须向对方披露所有影响签订合同的重要事实。
+        隐瞒或提供虚假信息均违反此原则。
+2.公平与公正 (Fairness)
+        核保和理赔需基于客观标准进行，不应存在任何歧视。
+3.避免利益冲突 (Avoiding Conflicts of Interest)
+       从业人员应将客户利益置于自身利益之上，透明处理佣金与回扣问题。
+4.保密义务 (Confidentiality)
+       严密保护客户的个人隐私与财务信息，未经授权不得泄露给第三方。
+
+常见的不道德行为
+1.带单销售 (Twisting / Churning)
+       为了赚取高额佣金，劝说客户不必要地退掉现有保单去购买新保单。
+2.隐瞒告知 (Misrepresentation)
+       故意向保户隐瞒保单的免责条款，或怂恿客户在投保时隐瞒既往病史。
+3.虚假理赔 (Insurance Fraud)
+     夸大损失、伪造事故证明以骗取保险金。这属于严重的违法行为。
+
+监管机构与合规指导
+     为了确保行业道德，全球各地的监管机构均制定了严格的行为准则：
+   香港保险业监管局 (IA)：要求持牌人完成持续专业培训 (CPD) 以强调商业道德。
+    国际保险监督官协会 (IAIS)：制定有《保險核心原則》(Insurance Core Principles) 來引導全球的市場行為。
+
+如果您对某个特定环节感兴趣，我们可以探讨：
+具体的理赔欺诈防范
+核保阶段的道德与合规审查
+针对保险代理人的职业道德守则
+
+请告诉我您想深入了解的特定领域或案例。
+
+--------------------------------------------------------------------------
+INTRODUCTION
+The dictionary will tell you the word ethics means something like “the systematized principles of morally correct behavior.” The word comes from the Greek ethos, which means character. An ethical person is someone with character. One who lives by principles and demonstrates morally correct behavior. Simply put, ethics is a set of moral principles or values that guides people’s behavior. Ethical behavior allows producers to earn the trust, respect, and loyalty of their clients. Insurance producers have an ethical responsibility to the general public, insurers, policy owners, and the state. This chapter will take a closer look at ethics as it relates to insurance and the impact ethical behavior can have on the insurance industry.
+
+
+----------------------------------------------------------------------------------
+KEYWORDS: ETHICS AND INSURANCE
+
+Agency: The legal relationship between two parties when one of the parties acts on behalf of another.
+Apparent Authority: The type of authority the insurance buying public perceives the agent possesses based on his or her actions.
+Certificate of Authority: The documenting authorizing an insurer to transact insurance in a state.
+Complaint: An expression of grievance against an insurer.
+Empathy: The ability to understand and share the feelings of another.
+Ethical marketing practices: Practices that emphasize competent, trustworthy, and responsible practices and acts that exhibit integrity and fairness to consumers.
+Ethics: A set of moral principles or values that guides people’s behavior.
+Express Authority: The type of authority an agent possesses which is defined or contained in the agent contract or agreement.
+Implied Authority: “Unwritten” authority is not specifically identified in the agency agreement. Any business activities that are usual and customary are implied.
+Insurance Marketplace Standards Association: This association exists to promote fair and ethical treatment of policyholders on the part of insurance companies.
+Insurer: A person or corporation that provides contracts of insurance. (Also called the principle)
+Market Authority: The measurement of an insurer and its producers with regard to marketing insurance products to consumers.
+Producer: A person who transacts insurance business on behalf of an insurer. (Also called an agent)
+
+----------------------------------------------------------------------
+ETHICS IN THE INSURANCE INDUSTRY
+Within a profession, ethics refers to the code of conduct that governs that group’s actions such as how members interact with outsiders and with one another. Lawyers, for example, are bound by a code of legal ethics that, among other restrictions, forbids them from revealing anything their clients tell them. Members of the public know that they may confide their deepest secrets to their attorneys without fear of disclosure.
+In spite of this, the public sometimes views lawyers with suspicion. Unfortunately, some people view insurance agents and stockbrokers in a similar fashion. Various scandals, such as the Ponzi scheme perpetuated by Bernard Madoff have made many people wary of the securities industry. In addition, the recession and its impact on investor’s portfolios have aided fraudsters, who play on hopes of reversing losses. It is therefore especially important that industry members be aware of their responsibility to behave ethically. When insurance agents demonstrate a lack of ethics in business dealings, the entire industry may suffer from loss of reputation and stigma. Adhering to ethical standards upholds the integrity of individual registered representatives, as well as the industry as a whole. Industry practices, regulations, and standards provide the best starting point to determine what is an appropriate and proper way to conduct business.
+We develop our inclination toward ethical (or unethical) behavior at an early age. Some believe our lifelong ethical bent is basically formed by age seven. We typically are influenced by a number of individuals and institutions. Parents or other significant adults in our life can have a profound impact on the way we see our responsibility towards others. The way we are treated by important adults, and the way we see them treat others, influences our perceptions of what is right and what is wrong in dealing with other people. The school and church or synagogue we attend, the organizations we join, all contribute to our ethical underpinnings.
+All of the great religions of the world teach an ethical principle of one form or another. Most are a variation of the familiar “golden rule.” For Christians, “Do unto others as you would have them do unto you” summarizes it rather succinctly. There is a story of a challenge offered to a famous teacher, Rabbi Hillel, who lived about the time of Jesus. The challenger asked the rabbi if he would summarize everything important about Judaism while standing on one foot. Rabbi Hillel said, “That which is hurtful to thee do not to thy neighbor. This is the whole doctrine. The rest is commentary.”
+Empathy is a key component of how we treat others. Native Americans are said to have had a teaching that held you should never judge another until you have “walked two moons in his moccasins.” The concepts of empathy towards others and treating others as you would want to be treated are the foundation of ethical behavior.
+But what does ethics really mean to the hard working financial services professional? For purposes of our discussion, let’s agree that ethics and ethical behavior refer to a kind of internal “moral compass” we all have to varying degrees. This “moral compass” guides our interactions with other people. For agents, “other people” refers to prospects, clients, home office personnel, and a host of others who are impacted by the way he or she conducts day to day business. Ethics for the agent, then, means treating prospects, clients, home office personnel — and even other agents — as they, themselves, would like to be treated. Such treatment includes honesty, fairness, and compassion.
+Different people are comfortable with different types of behavior. An individual’s own standard of behavior can run the gamut from acceptable to beyond reproach. It is important to understand the concept of ethics in order to develop your own standard of conduct for personal and business matters. One’s ethics establish his or her reputation in the industry. One’s ethics determines how your colleagues view you and how they will deal with you. A licensed producer with a reputation for pushing clients into poor purchases may lose business through negative word of mouth. Customers who lose money on unsuitable purchases do more than give a negative assessment of performance to their friends and family. They will complain to the regulators and file arbitrations. These actions then become part of the producer’s disciplinary history, which is available to the public through the office of the Commissioner of Insurance in a particular State.
+Producers (and their insurers) must take the time to think about what constitutes an appropriate standard of behavior before they find themselves in situations that test it. Often you will not have the time to reflect, once a problem arises that requires you to make an ethical decision. A response that may seem appropriate at the moment may prove to have serious repercussions down the road. Producers have a fiduciary duty and responsibility to the consumer and to the insurer with whom it places insurance business.
+Producers must also consider how their personal ethics may differ from their insurer’s official code of behavior. Decisions made in the heat of the moment may reflect the producer’s personal standards and not that of the insurer. A producer may have issues with a course of action, even though it is consistent with the insurer’s policies or management’s idea of permissible conduct. Financial services professionals should cultivate an awareness of their company’s policies, their own personal feelings about what is right, and their manager’s opinions as well. This will help one to develop a standard of behavior that will serve him or her well, not only in conducting day-to-day business, but in dealing with tricky or puzzling situations that may occasionally arise.
+Firms should take care to develop and cultivate an ethical work environment. Establishing procedures and policies to make employees aware of what the firm expects in the way of ethical conduct is just the first step. A firm must provide a means for employees to seek assistance if they are being pressured into doing something unethical. Policies must clearly spell out the proper transaction procedures and rules, and the firm must make employees aware of the importance of full compliance. Management must be trained to set an example, and employees who act ethically must be recognized and rewarded.
+Making ethical and legal conduct a matter of lip service, without any tangible endorsement or support of this conduct by management, does not create an ethical environment at a firm. The firm with a reputation for high standards of conduct will typically attract employees that appreciate this in a working environment. Firms must earn this reputation with conscious policies of training, monitoring, and support in the area of ethical conduct.
+Is conduct that is legal always ethical? Clearly, the answer is no. Conversely, in a few cases, someone may commit an illegal act for commendable reasons. Since the ethics of an individual may be determined by that person’s personal moral compass, the assessment of what is ethical is not always cut-and-dried.
+
+^-----------------------------------------------------------------------------------------
+ILLEGAL, BUT ETHICAL
+Consider the case of Mark, whose brother Joe was suffering from a painful illness. Joe and Mark were both poor, with families to support and no money to spare. The medication Joe needed to get well was expensive, and Joe had no health insurance. Mark did have insurance, and he asked his family physician to prescribe the medication in his name so that he could give it to Joe.
+If you were the physician, what would you do in this situation? Prescribing medication falsely is clearly a violation of medical ethics and standards, as well as a violation of the law. But without it, Joe would suffer and perhaps die. What is the higher duty here, obeying the law or helping to relieve a human being’s suffering? There are no easy answers. Rules, standards, and laws protect us from liability and harm but do not always reconcile with the practical impulses that we face every day.
+
+-----------------------------------------------------------------------------------------------------
+LEGAL, BUT UNETHICAL
+
+Consider also the case of John, a televangelist who preaches to thousands of people on his own nonprofit network. John and those involved in his organization know that the majority of the contributions they receive are from people who cannot afford it. They also know that a great many of the funds collected go first to the administrative overhead of the ministry, never benefitting those whose sad stories they use to solicit those contributions. The administrative overhead includes generous salaries, benefits, and allowances for those involved. Evidence of the generosity of those from whom they solicit is clear and the ministry receives endorsed social security checks each month from senior citizens whose income is marginal. While the operation may aim to remain within the letter of the law in its accounting practices, the ethical implications in conducting this type of charity are obvious. The televangelist must know when he pleads for funds for the poor that most of the funds will serve to support his lavish lifestyle. Yet John has done nothing overtly illegal. Unethical conduct is not always illegal. It may just skirt the law. Occasionally, illegal activities can be conducted for ethical reasons. An ethical analysis of a specific scenario can be complex, but in many instances, it is made easier by the existing laws and regulations.
+
+-------------------------------------------------------------------------------------------------------
+ETHICAL RESPONSIBILITY ISSUES
+State insurance law describes the ethical responsibilities of producers and the concept of agency. Ethical standards apply to all insurance producers licensed in this State. The latter is the relationship between an insurer and its agents (i.e., producers). The insurer is also referred to as the principal. The producer acting on behalf of or placing insurance business with an insurer is known as the agent of the principal. The insurance business is entirely about ethics.
+The following information are pertinent with regard to the ethical responsibilities of a producer in relation to his or her relationship with a principal.
+
+
+----------------------------------------------------------------------
+AGENT / COMPANY RELATIONSHIPS AND AGENT AUTHORITY
+The concept of “agency” is the legal relationship between two parties when one of the parties acts on behalf of another. This concept does not just apply to the insurance field. However, it may be applied to the insurance business to illustrate the relationship between an insurer and a producer. For example, this legal relationship exists when a producer (i.e., an agent) represents an insurer. The insurer is referred to as the principal. The producer may be referred to as the agent or authorized representative. When the producer / agent acts within the scope of his or her authority, the insurer or principal is bound or responsible for such action. There are several types of agent authority in existence:
+ACTUAL OR EXPRESS AUTHORITY
+Expressed or Actual authority is the type of authority an agent possesses which is defined or contained in the agent contract or agreement. When this contract is in force, the insurer is responsible for the acts of its agents / producers. This agreement specifies the actual powers and functions of the agent. This type of authority is generally in written form. Producers or agents are allowed to solicit appointments, select or reject risks in the field, complete applications, collect premiums, submit applications and premiums to the insurer and other various duties. Express authority is extended to a producer in an agency contract or agreement.
+IMPLIED AUTHORITY
+Implied or “unwritten” authority is not specifically identified in the agency agreement. However, it is an extension of an agent’s regular duties (i.e., authority exercised by the producer as a result of prior experience). Any business activities that are usual and customary are implied. For instance, it is implied that an agent (i.e., producer) who solicits insurance is permitted to sign the application, or it is implied that the producer may ask an applicant questions concerning the health history of the proposed insured.
+APPARENT AUTHORITY
+Apparent authority is the type of authority the insurance buying public perceives the agent possesses based on his or her actions. In other words, this authority is not given to the producer but the public believes that the agent possesses this authority. A producer might also possess lingering apparent authority as well.
+
+-------------------------------------------------------------------------------
+AGENCY VERSUS INDIVIDUAL LICENSEE
+State law states that an insurance license issued to a sole proprietor, partnership, association, corporation or other business entity shall be called an agency license regardless of the type of insurance transaction authorized under the license. Every insurance transaction effected in the name of the agency shall be performed by an individual registered with the Department of Insurance as to that agency and who has qualified in the same manner as required for an individual producer license.
+
+-----------------------------------------------------------------------------------------
+MARKET CONDUCT
+Market conduct involves the measurement of an insurer and its producers with regard to marketing insurance products to consumers. Producers are required to act in a fiduciary capacity in their dealings with consumers and the insurer to whom they place insurance business. Producers must act with utmost good faith with regard to insurance transactions. Insurers must be examined at least once every five years to determine their financial condition, their ability to meet its obligations, if they have complied with State law, the equity of their dealings with policyholders and any other information relating to their business practices and methods. These are sometimes referred to as market conduct examinations. There are several types of market conduct examinations including:
+(1) comprehensive examinations to review all aspects of an insurer’s insurance operations;
+(2) specific examinations focusing on specific areas of an insurer’s operations;
+(3) examinations to ensure insurer compliance with the determinations of previous examinations;
+(4) other specialized examinations for specialty or alternative insurers or providers.
+MARKET CONDUCT EXAMINATIONS
+State insurance law stipulates that the Commissioner has the power to examine or audit an insurer for solvency. The Commissioner has the power to examine every licensed domestic insurer in this state at least once every five years. This means that authorized insurers must be audited at least once every five years to determine their financial condition or solvency, their ability to meet financial obligations (i.e., payment of death benefits), if they have complied with State law, the equity of their dealings with policyholders and any other information relating to their business practices and methods. These are sometimes referred to as market conduct examinations. In addition, the Commissioner may examine an insurer or person to make sure that either is not engaging in any unfair marketing or sales practices.
+DISCLOSURE LETTERS AND FORMS
+The purpose of state laws regarding disclosure letters and forms is to require insurers to deliver information to purchasers of insurance which will improve the buyer’s ability to:
+(1) select the most appropriate plan of insurance for his needs;
+(2) improve the buyer’s understanding of the basic features of the policy which has been purchased or which is under consideration; and
+(3) improve the ability of the buyer to evaluate the relative costs of similar plans of insurance.
+All insurers are subject to specific disclosure requirements as well. The insurer must provide a Buyer’s Guide and a Policy Summary to all prospective purchasers prior to accepting the applicant’s initial premium or premium deposit, unless the policy contains an unconditional refund provision of at least ten days, in which case the Buyer’s Guide and Policy Summary must be delivered with the policy or prior to delivery of the policy. The insurer must provide a Buyer’s Guide and a Policy Summary to any prospective purchaser upon request. Following the sales interview, the insurer must send to the applicant a disclosure letter which summarizes the matters discussed during the presentation and the decisions reached by the applicant. All insurers must maintain at its home or principal office a complete file containing one copy of each disclosure document authorized by the insurer. The file must contain one copy of each authorized form for a period of three years following the date of its last authorized use. Terms such as financial planner, investment advisor, financial consultant, or financial counseling may not be used to imply that the insurance agent is generally engaged in any advisory business in which compensation is unrelated to sales, unless this is actually the case. Any reference to policy dividend must include a statement that dividends are not guaranteed. A system which does not recognize the time value of money through the use of appropriate interest adjustments may not be used for comparing the cost of two or more life insurance policies. This type of system may be used for the purpose of demonstrating the cash-flow pattern of a policy if the presentation is accompanied by a statement disclosing that the presentation does not recognize that, because of interest, a dollar in the future has less value than a dollar today.
+
+--------------------------------------------------------------------------------
+ETHICAL MARKETING PRACTICES
+
+All insurers and their producers would agree that there are ethical implications to the way in which insurance products are marketed. Acts that are not ethical might include but are not limited to: taking advantage of the elderly when selling certain types of insurance; misrepresenting the benefits, provisions and coverage in a policy; defaming a competitor; comparing policies unfairly and inaccurately; illegally inducing a consumer to surrender an existing policy; misappropriating or commingling premiums collected with personal funds; falsifying information on an application submitted to an insurer; or engaging in rebating. Ethical marketing practices can be described as practices that emphasize competent, trustworthy, and responsible practices and acts that exhibit integrity and fairness to consumers.
+Insurers, no matter what products they market, have historically had a poor reputation in terms of ethics. This less than sterling reputation is even more pronounced in the life insurance business. Life insurers have attempted to rectify this situation by creating the Insurance Marketplace Standards Association. This association exists to promote fair and ethical treatment of policyholders on the part of life insurance companies. Participation in this association is voluntary but many insurers participate since there are few ethical governmental standards in existence today. In order to be certified by this association, an insurer must adhere to a set of principles regarding ethical market conduct. These principles are not exclusive to the life insurance industry. The first of these, as previously mentioned is the “Golden Rule”(i.e., do unto others, etc.). All insurers should provide the same quality service to its consumers that it would demand for itself, with competence, fairness and honesty. Other ethical principles that should be embraced by insurers include but are not limited to:
+FAIR COMPETITION
+Insurers should also engage in competition fairly. Insurers who do not police their sales force or hire intermediaries who are competent and trustworthy do a disservice to the industry and consumers.
+ADVERTISING
+The Commissioner shall regulate all advertising in this State with regard to the sale or marketing of insurance, annuities, and endowments. Advertising includes any making, publishing, disseminating, circulating, or placing at the disposal of the public any notices, circulars, direct mailers, or other tools which describe the benefits of a policy or the services provided by an insurer and its licensees. Advertisements also include the following:
+ Prepared sales talks utilized by a licensee
+ Audiovisual aids used in a sales presentation
+ Radio and television announcements or ads
+ Newspaper and magazine ads
+ Circulars or “flyers” distributed by mail or in person
+ Billboards, signs, and other like types of advertisements
+Advertising materials should always be written in a manner that can be easily comprehended by the average consumer. The contents of advertising materials must be true and not misleading.
+
+----------------------------------------------------------------------------------------------------------------------------------
+CUSTOMER SERVICE
+Another principle on which to focus would entail providing quality service to the insured / policyholder. Great customer service cements the relationship between the insurer and the consumer. Without sound customer service there is no relationship.
+----------------------------------------------------------------------------
+COMPLAINT PROCEDURES
+State insurance law describes regulations pertaining to consumer complaints. A complaint is an expression of grievance against an insurer. An allegation of fraud by an insured against an insurer shall be considered fraud as well. Complaints shall be resolved in one of the following manners:
+(1) the Department, through negotiation or mediation, may resolve a complaint with some benefit provided to the consumer. Any resolution in favor of the consumer shall be considered a complaint resolved in favor of the consumer;
+(2) the Department may determine that the complaint did not have merit in which case it shall not be founded; or
+(3) the Department may initiate a proceeding to make a formal determination as to whether the complaint is founded. It shall provide a written notice to the insurer that the complaint has been received and that the complaint will be referred for formal determination.
+The Department shall make available to the public the following information:
+(1) the details of each founded complaint and action taken by the Insurance Department in response thereto, with information related to the identity of the complaining party deleted: and
+(2) statistical information regarding the number of founded complaints against each insurer, including information permitting consumers to assess such statistics in the context of the total amount of business done in the State by each insurer.
+Complaint issues should always be dealt with fairly, quickly and efficiently.
+
+-----------------------------------------------------------------------------------------------
+APPROPRIATE CLAIM PRACTICES
+Insurers must also, by law, maintain reserves to pay covered claims. They must pay all covered claims in a timely fashion. Insurers are not permitted to engage in any unfair claim practices. The following are unfair claim practices in which an insurer should not engage. If committed by an insurer, the Commissioner may suspend the insurer’s certificate of authority. Any employees of the insurer who are responsible for unfair claim practices may be disciplined as well. Some of the more common types of unfair claim practices include:
+ Misrepresenting insurance policy provisions or pertinent facts concerning coverages provided.
+ Refusing to pay claims without conducting an equitable and fair investigation based on all available information.
+ Failing to effectuate a prompt, fair, and equitable settlement of claims in which liability has become reasonably clear.
+ Failing to adopt and implement reasonable standards for the prompt investigation of covered claims or failing to affirm or deny coverage for a claim within a reasonable time after a proof of loss has been submitted to the insurer.
+ Failing to acknowledge and act reasonably and promptly upon communications with respect to claims.
+ Seeking to pay insurance claims for less than the amount stipulated in the policy.
+ Failing to provide claim or proof of loss forms in a timely fashion (i.e., timely payment of claims).
+ Forcing insureds to institute legal action to recover amounts due under a policy by offering less than the amounts ultimately recovered in actions brought by insureds.
+ Unfairly refusing to pay claims or making known to an insured that the insurer has a policy of contesting claims by going to arbitration, which may induce the claimant to accept a lower amount to which he or she is entitled.
+ Failing to settle claims promptly after relevant information has been collected by the insurer.
+ Failing to promptly provide a reasonable response to an insured or beneficiary with relation to the facts or applicable law regarding denial of a claim.
+
+------------------------------------------------------------------------------------
+FEDERAL REGULATION
+The companies may not have actually acquiesced, but in reality, we do have fifty-one regulators today. Despite McCarran-Ferguson, the federal government injects itself into the insurance regulation act quite regularly these days. The Employee Retirement Income Security Act (ERISA) is one example of a federal law that impacts many of the products offered by life insurers. Increasingly, however, federal regulations are proliferating in other areas of financial services.
+The reasons for increased federal intervention are many, but one is certainly the proliferation of variable insurance and annuity products over the past few years. Variable products themselves are not new, but the number of new products and sales have exploded in the past few years. The huge increase in sales of these products has opened the door wide for the Security and Exchange Commission (SEC) to step in. And they have indeed stepped in with both feet.
+Another federal agency that receives the industry’s attention from time to time is the U.S. Treasury Department. Every once in a while someone at treasury suddenly “discovers” that the inside build-up of cash value in life insurance and annuities is not subject to current income taxation. The result of this discovery is usually a flurry of noisy threats of tax policy changes that require industry counter action. Fortunately, thus far the advantages and benefits of keeping life insurance and annuity cash value tax-deferred have carried the day.
+
+-----------------------------------------------------------------
+STATE REGULATION
+State oversight of the insurance industry falls into two broad categories:
+
+(1) statutes passed by the State legislators; and
+
+(2) regulations that flow from the powers of the insurance department itself.
+
+In most States, the Commissioner (or Superintendent) of insurance has the power to issue rules and other forms of regulations that carry the full force of the law. Most insurance Commissioners are appointed by the governor but, in some States, it is an elective position. Election, of course, introduces politics into the mixture in a big way. Election to the insurance Commissioner’s office is sometimes considered a springboard to higher State office, such as Governor. It’s easy to understand why. The Commissioner’s office can provide an ambitious politician with a platform for playing David to the insurance industry’s Goliath. Publicly “taking on” the insurance industry can play well in the press.
+
+--------------------------------------------------------------------------------------------
+THE INDUSTRY VERSUS THE REGULATORS
+Here again, there is a temptation to point a finger at the State and federal regulators and blame them for all the bad industry press. But the same rule described earlier still holds true. The Commissioners cannot make headlines when there is not industry abuse to attack. Recently, there seems to be an attitude change within much of the industry, which holds that the best way to look at the state and federal insurance regulators consuming public. After all, the regulators have either been elected to the position or appointed by other elected officials. In either case, they have been duly appointed via the democratic process to represent the consumer’s interest in matters of insurance; a product many consumers have difficulty understanding.
+One of the more compelling bits of evidence of this new attitude is the recent formation by the industry of the Insurance Marketplace Standards Association (IMSA). The very fact that IMSA exists is testimony to the willingness of the industry to face ethics and market conduct issues head on by cooperating must more closely with industry customers and their designated representatives, the industry regulators both State and federal.
+
+---------------------------------------------------------------------------
+THE RISE OF CONSUMER PROTECTION
+In the good old days of “buyer beware,” if you were “smooth-talked” into buying a poor product, your reaction might have been, “How could I have been so stupid? I’ll never buy anything from that outfit again!” Today, a similar experience might cause you to suddenly recall a recent television advertisement for a local law firm that specializes in product liability cases. Check your yellow pages. They’re full of advertisements for friendly lawyers willing to help. “No fee unless we win your case!”
+
+Many people mark the beginning of the consumer protection age with the 1960s book, Unsafe at Any Speed, by a then-unknown lawyer named Ralph Nader. In his book, Nader made a case against auto companies, General Motors in particular, claiming they built unsafe cars, which put drivers and passengers at risk of injury and death. One result of Nader’s book was the demise of the Chevrolet Corvair. Publication of Unsafe at Any Speed, and the ensuing ruckus it caused, was the first time anyone had taken on the auto industry on such a grand scale and won. With his book, Ralph Nader ushered in a new area of consumer protection and created a brand new occupation — the “consumer advocate.”
+
+But Ralph Nader didn’t change the world single handedly. It was already changing. Earlier, Vance Packard had written a book, The Hidden Persuaders, which described the influence of advertising on consumers. In this book, The Affluent Society, written in 1958, John Kenneth Galbraith likewise argued that advertising is manipulative and causes people to buy things they really do not need or want. Oh yes, suspicion of marketers and sellers was already taking root well before Nader.
+
+Change was accelerating for other reasons, too. By the 1950s and 1960s, communication technology was already beginning a long revolution that continues to this day. You remember the 1950s Sputnik and the 1960’s man on the moon. Better, faster communication, like the Internet and email, makes it much more difficult to get away with shoddy products and poor service in this day and age. Disappointed customers continue telling others about it. Today, a disappointed customer can inform many more people, and do so a great deal faster.
+
+Quality in manufacturing and customer service has been improving dramatically too, thanks to the work of people like W. Edwards Deming, J.M. Juran, Genichi Taguchi, and others. By the 1980s, total quality management (TQM) was becoming a way of doing business for a lot of companies, in a lot of industries around the world. The focus on quality and continuous improvement raised the bar for every product and service provider as it raised customer expectations.
+
+Meanwhile, consumer advocacy developed into a fine art and a major influence on our society. Many states created a department of consumer advocacy, or a consumer ombudsman, to fight the good fight against consumer rip off and fraud. Perhaps you have heard of the U.S. Consumer Product Safety Commission. What would Willy Loman think of that?
+
+Subtly, over the past few decades, consumers have been transformed from passive purchasers of goods and services, putting up with whatever they received, into informed negotiators who demand quality products, value, and good service. Along the way, another development took place that helped pave the agent’s road to ethics, compliance and market conduct. The rule against attorney advertising disappeared. Add to that an abundance (some would say an overabundance) of law school graduates in recent decades and, suddenly, there is a new sales force in town. They’re selling their skill at picking pockets — deep pockets; and they’re prospecting in the agent’s back yard. By the 1990s, the new age of the consumer had fully dawned, bringing with it a new breed of customer. One that is better informed, more sophisticated, more demanding, and more litigious.
+----------------------------------------------------------------------------------------------------------------
+CLASS ACTIONS IN A LITIGIOUS SOCIETY
+Here’s where it gets tempting to write a blistering attack on the legal profession, blame all the woes of the agent and industry on aggressive lawyers, or go for the emotional close! But it’s not as simple as that. It is, however, as simple as this: if there had been no abuses, there would be no industry woes. If there had been no mislead consumers, there would be no fined and imprisoned former agents. Attorneys are uncovering the problems, they are not creating them So the climate changes over the past few decades created a perfect environment for the class action frenzy the financial services industry has witnessed. All the ingredients have been there, cooking for some time. Plenty of lawyers, plenty of money, plenty of demanding customers, and plenty of abuses waiting to be uncovered. All that was needed was a little stirring and a little more heat.
+Things reached the boiling point in 1993 when an article appeared in The Wall Street Journal reporting that a number of agents for a major life insurance company complained they were terminated when they refused to participate in selling “retirement plans” to nurses. The plan was life insurance marketed as a “private pension” plan. The former agents believed the practice was improper and claimed they were fired when they refused to participate. The article attracted the attention of a well-known attorney with class-action experience and the rest, as they say, is history.
+Again, it would be easy to blame the attorney for stirring up a hornet’s nest, but the problems were there. Here’s an excerpt from an interview with plaintiff’s attorney, Ron Parry that appeared in Best’s Review at the time:
+“Agents also told us they were trained never to use the word “premium,” to always use the term “deposit” instead of “premium.” All those allegations were attracting attention in the press. So when we filed the class action, it attracted even more attention. My name was published in the paper a few times. The phone calls started in late 1993 and haven’t stopped since. I’ve had more than six calls this morning and it isn’t even 11 a.m. yet.”
+Class action lawsuits presented a huge problem for the insurance industry. There was little that companies could do to protect themselves from the onslaught. All it took was for a few disgruntled policyholders to seek legal remedy for a wrong by an agent or company. Once the right attorney decided that real problem existed and other policyholders may also have been harmed in the same way, the door was wide open.
+Another article in the same issue of Best’s Review discussed how the cost of mounting a class action suit had been declining in recent years. One reason given was “the communication explosion, including computers and the Internet.” The article described a database of legal evidence related to class-action lawsuits maintained by The Association of American Trial Lawyers maintains for east access by attorneys involved in cases — or hoping to get involved in one. One group, Public Citizen Litigation Group, located in Washington, D.C., even sold a “litigation kit” to help inexperienced lawyers get started in the class-action business.
+Once a sufficient number of individuals were identified for a class action to be certified, negotiations began in earnest. Most companies, seeking to avoid the legal expenses and bad publicity of a court fight, settled as quickly as possible. Sarah Cheaure, executive director of Citizens against Lawsuit Abuse, said at the time, “The company has to pay out because 99.999% of the time, it’s cheaper to settle than it is to fight it.”
+
+---------------------------------------------------------------------------------------
+CHOOSING AN INSURER
+Choosing an insurance company to represent isn’t always a well informed decision. Individuals enter the insurance business with a particular company for a variety of reasons. It may be as simple as the fact that they need a job, and this one happens to be available. Many enter the business because they are recruited by someone whose description of the opportunities and rewards of the career sufficiently impressed them. The recruiter “sells” the company along with the position as any good employer representative would. In the end, the new recruit may have very little idea of the true nature of the company. As the agent matures in the position, however, he or she may become aware of company policies or conduct that warrants considering a move to a different company.
+
+---------------------------------------------------------------
+COMPANY PHILOSOPHY TOWARDS ITS AGENTS
+In choosing a company to represent, it is certainly appropriate for the agent to consider how the company treats its own agents. Another variation of the golden rule will help us here. “Choose a company whose other employees treat its agents as they would want to be treated themselves.” Agents deserve no less ethical treatment than customers or other company employees. Of course, that means the agents have to treat home office employees likewise. If you are the agent who is constantly badgering underwriters or taking out your frustrations on whoever answers the telephone when you call the home office, you probably deserve the poor treatment you likely receive. On the other hand, there is absolutely no justification for home office employees treating agents as less than full partners in fulfilling the company’s mission.
+Areas of concern would include the general attitude of home office employees towards agents. Agents should be perceived as customers of the various home office units that interact with them, and not adversaries or a necessary evil. Often, there is very little understanding of the agent’s job by employees “on the inside.” The agent’s job is sometimes perceived, by individuals unfamiliar with its daily routine, as an easy life. The agent doesn’t have to “punch a clock,” gets to set his own hours, and sometimes seems to be overpaid for the amount of actual work done. Lack of respect for the agent’s paycheck is another bad sign. An attitude of “it’s no big deal” if a policy’ isn’t issued as soon as it might be or if a commission is credited next pay period instead of this one, is unconscionable. Regardless of whether a particular agent has a high income or low income, he is entitled to promptly receive the agreed upon pay for the work performed. It’s incumbent upon the company to treat its agent fairly. It’s the right thing to do.
+
+------------------------------------------------------------------------------------
+REVIEW NOTES: ETHICS AND INSURANCE
+ETHICS IN THE INSURANCE INDUSTRY
+ Ethics is a set of moral principles or values that guides people’s behavior
+ Within a profession, ethics refers to the code of conduct that governs that group’s actions such as how members interact with outsiders and with one another
+ When insurance agents demonstrate a lack of ethics in business dealings, the entire industry may suffer from loss of reputation and stigma
+ Empathy is a key component of how we treat others
+ The concepts of empathy towards others and treating others as you would want to be treated are the foundation of ethical behavior.
+ Ethics for the agent means treating prospects, clients, home office personnel — and even other agents — as they, themselves, would like to be treated. Such treatment includes honesty, fairness, and compassion
+ Producers (and their insurers) must take the time to think about what constitutes an appropriate standard of behavior before they find themselves in situations that test it
+ Producers have a fiduciary duty and responsibility to the consumer and to the insurer with whom it places insurance business
+ A firm must provide a means for employees to seek assistance if they are being pressured into doing something unethical
+ILLEGAL, BUT ETHICAL?
+ Rules, standards, and laws protect us from liability and harm, but do not always reconcile with the practical impulses that we face every day
+LEGAL, BUT UNETHICAL
+ Unethical conduct is not always illegal. It may just skirt the law.
+AGENT / COMPANY RELATIONSHIPS AND AGENT AUTHORITY
+ State insurance law describes the ethical responsibilities of producers and the concept of agency
+ The concept of “agency” is the legal relationship between two parties when one of the parties acts on behalf of another
+ Expressed or Actual authority is the type of authority an agent possesses which is defined or contained in the agent contract or agreement
+ Implied or “unwritten” authority is not specifically identified in the agency agreement. However, it is an extension of an agent’s regular duties
+ Apparent authority is the type of authority the insurance buying public perceives the agent possesses based on his or her actions
+MARKET CONDUCT
+ Market conduct involves the measurement of an insurer and its producers with regard to marketing insurance products to consumers
+ Insurers must be examined at least once every five years to determine their financial condition, their ability to meet its obligations, if they have complied with State law, the equity of their dealings with policyholders and any other information relating to their business practices and methods
+ The purpose of state laws regarding disclosure letters and forms is to require insurers to deliver information to purchasers of insurance
+ All insurers must maintain at its home or principal office a complete file containing one copy of each disclosure document authorized by the insurer
+ETHICAL MARKETING PRACTICES
+ All insurers and their producers would agree that there are ethical implications to the way in which insurance products are marketed
+ Ethical marketing practices can be described as practices that emphasize competent, trustworthy, and responsible practices and acts that exhibit integrity and fairness to consumers
+ All insurers should provide the same quality service to its consumers that it would demand for itself, with competence, fairness and honesty
+ Insurers should also engage in competition fairly
+ The Commissioner shall regulate all advertising in this State with regard to the sale or marketing of insurance, annuities, and endowments
+ Advertising materials should always be written in a manner that can be easily comprehended by the average consumer. The contents of advertising materials must be true and not misleading
+ Great customer service cements the relationship between the insurer and the consumer
+ State insurance law describes regulations pertaining to consumer complaints. A complaint is an expression of grievance against an insurer
+APPROPRIATE CLAIM PRACTICES
+ Insurers must also, by law, maintain reserves to pay covered claims
+ They must pay all covered claims in a timely fashion
+ Insurers are not permitted to engage in any unfair claim practices
+ If committed by an insurer, the Commissioner may suspend the insurer’s certificate of authority
+ Any employees of the insurer who are responsible for unfair claim practices may be disciplined as well
+REGULATION OF THE INSURANCE INDUSTRY
+ There are two principal sources of regulation of insurance agent conduct:
+o State insurance departments; and
+o various agencies of the federal government
+ The federal government injects itself into the insurance regulation act quite regularly
+ State oversight of the insurance industry falls into two broad categories:
+o statutes passed by the State legislators; and
+o regulations that flow from the powers of the insurance department itself.
+ In most States, the Commissioner (or Superintendent) of insurance has the power to issue rules and other forms of regulations that carry the full force of the law
+THE RISE OF CONSUMER PROTECTION
+ Consumer advocacy developed into a fine art and a major influence on our society
+ Many states created a department of consumer advocacy, or a consumer ombudsman, to fight the good fight against consumer rip off and fraud
+ By the 1990s, the new age of the consumer had fully dawned, bringing with it a new breed of customer. One that is better informed, more sophisticated, more demanding, and more litigious.
+CLASS ACTIONS IN A LITIGIOUS SOCIETY
+ Attorneys are uncovering the problems, they are not creating them
+ Most companies, seeking to avoid the legal expenses and bad publicity of a court fight, settle as quickly as possible
+CHOOSING AN INSURER
+ In choosing a company to represent, it is certainly appropriate for the agent to consider how the company treats its own agents
+ Agents deserve no less ethical treatment than customers or other company employees
+ there is absolutely no justification for home office employees treating agents as less than full partners in fulfilling the company’s mission.
+ Regardless of whether a particular agent has a high income or low income, he is entitled to promptly receive the agreed upon pay for the work performed
+
+-------------------------------------------
+REVIEW NOTES: ETHICS AND INSURANCE
+ETHICS IN THE INSURANCE INDUSTRY
+ Ethics is a set of moral principles or values that guides people’s behavior
+ Within a profession, ethics refers to the code of conduct that governs that group’s actions such as how members interact with outsiders and with one another
+ When insurance agents demonstrate a lack of ethics in business dealings, the entire industry may suffer from loss of reputation and stigma
+ Empathy is a key component of how we treat others
+ The concepts of empathy towards others and treating others as you would want to be treated are the foundation of ethical behavior.
+ Ethics for the agent means treating prospects, clients, home office personnel — and even other agents — as they, themselves, would like to be treated. Such treatment includes honesty, fairness, and compassion
+ Producers (and their insurers) must take the time to think about what constitutes an appropriate standard of behavior before they find themselves in situations that test it
+ Producers have a fiduciary duty and responsibility to the consumer and to the insurer with whom it places insurance business
+ A firm must provide a means for employees to seek assistance if they are being pressured into doing something unethical
+ILLEGAL, BUT ETHICAL?
+ Rules, standards, and laws protect us from liability and harm, but do not always reconcile with the practical impulses that we face every day
+LEGAL, BUT UNETHICAL
+ Unethical conduct is not always illegal. It may just skirt the law.
+AGENT / COMPANY RELATIONSHIPS AND AGENT AUTHORITY
+ State insurance law describes the ethical responsibilities of producers and the concept of agency
+ The concept of “agency” is the legal relationship between two parties when one of the parties acts on behalf of another
+ Expressed or Actual authority is the type of authority an agent possesses which is defined or contained in the agent contract or agreement
+ Implied or “unwritten” authority is not specifically identified in the agency agreement. However, it is an extension of an agent’s regular duties
+ Apparent authority is the type of authority the insurance buying public perceives the agent possesses based on his or her actions
+MARKET CONDUCT
+ Market conduct involves the measurement of an insurer and its producers with regard to marketing insurance products to consumers
+ Insurers must be examined at least once every five years to determine their financial condition, their ability to meet its obligations, if they have complied with State law, the equity of their dealings with policyholders and any other information relating to their business practices and methods
+ The purpose of state laws regarding disclosure letters and forms is to require insurers to deliver information to purchasers of insurance
+ All insurers must maintain at its home or principal office a complete file containing one copy of each disclosure document authorized by the insurer
+ETHICAL MARKETING PRACTICES
+ All insurers and their producers would agree that there are ethical implications to the way in which insurance products are marketed
+ Ethical marketing practices can be described as practices that emphasize competent, trustworthy, and responsible practices and acts that exhibit integrity and fairness to consumers
+ All insurers should provide the same quality service to its consumers that it would demand for itself, with competence, fairness and honesty
+ Insurers should also engage in competition fairly
+ The Commissioner shall regulate all advertising in this State with regard to the sale or marketing of insurance, annuities, and endowments
+ Advertising materials should always be written in a manner that can be easily comprehended by the average consumer. The contents of advertising materials must be true and not misleading
+ Great customer service cements the relationship between the insurer and the consumer
+ State insurance law describes regulations pertaining to consumer complaints. A complaint is an expression of grievance against an insurer
+APPROPRIATE CLAIM PRACTICES
+ Insurers must also, by law, maintain reserves to pay covered claims
+ They must pay all covered claims in a timely fashion
+ Insurers are not permitted to engage in any unfair claim practices
+ If committed by an insurer, the Commissioner may suspend the insurer’s certificate of authority
+ Any employees of the insurer who are responsible for unfair claim practices may be disciplined as well
+REGULATION OF THE INSURANCE INDUSTRY
+ There are two principal sources of regulation of insurance agent conduct:
+o State insurance departments; and
+o various agencies of the federal government
+ The federal government injects itself into the insurance regulation act quite regularly
+ State oversight of the insurance industry falls into two broad categories:
+o statutes passed by the State legislators; and
+o regulations that flow from the powers of the insurance department itself.
+ In most States, the Commissioner (or Superintendent) of insurance has the power to issue rules and other forms of regulations that carry the full force of the law
+THE RISE OF CONSUMER PROTECTION
+ Consumer advocacy developed into a fine art and a major influence on our society
+ Many states created a department of consumer advocacy, or a consumer ombudsman, to fight the good fight against consumer rip off and fraud
+ By the 1990s, the new age of the consumer had fully dawned, bringing with it a new breed of customer. One that is better informed, more sophisticated, more demanding, and more litigious.
+CLASS ACTIONS IN A LITIGIOUS SOCIETY
+ Attorneys are uncovering the problems, they are not creating them
+ Most companies, seeking to avoid the legal expenses and bad publicity of a court fight, settle as quickly as possible
+CHOOSING AN INSURER
+ In choosing a company to represent, it is certainly appropriate for the agent to consider how the company treats its own agents
+ Agents deserve no less ethical treatment than customers or other company employees
+ there is absolutely no justification for home office employees treating agents as less than full partners in fulfilling the company’s mission.
+ Regardless of whether a particular agent has a high income or low income, he is entitled to promptly receive the agreed upon pay for the work performed
+-----------------------------------------------------------------------------------------------------------
+Review
+Congratulations, you have finished.
+
+Click the Exit button to close this course.
+
+
+
+
+
+
