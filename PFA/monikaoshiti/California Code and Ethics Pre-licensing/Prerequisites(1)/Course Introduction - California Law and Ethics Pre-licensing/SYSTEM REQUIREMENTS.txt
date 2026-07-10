@@ -1,0 +1,10 @@
+SYSTEM REQUIREMENTS
+
+Our online courses support the most recent versions of the following browsers:
+chrome
+Firefox
+EDGE
+Safari
+
+Other browsers may work with limited functionality, though we can't guarantee full compatibility. No matter which browser you use, you should enable cookies and JavaScript, and allow pop-ups for this website. For more information, please visit the support website for your browser by clicking the appropriate icon above.
+
