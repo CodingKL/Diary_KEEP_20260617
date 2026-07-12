@@ -1,0 +1,5 @@
+INSURABLE EVENTS [CIC SECTION 250] 
+
+As defined in the California Insurance Code, insurable events include any contingent or unknown event, whether past or future, which may cause loss against a person having an insurable interest, or create a liability against him. This specifically excludes: a lottery or its outcome, policy executed by way of gaming or wagering, and as of January 1, 1986, coverage for the payment of any damages awarded to a person because of Section 1029.8 of the Code of Civil Procedure.
+Contingent events that may result in a gain (such as lotteries, wagers, gaming, or court decisions) are not insurable.
+

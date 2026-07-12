@@ -1,0 +1,35 @@
+BE ABLE TO IDENTIFY THE SCOPE AND CORRECT APPLICATION OF THE CONSERVATION PROCEEDINGS DESCRIBED IN THE CODE, SECTIONS 1011, 1013, AND 1016 OF THE CIC.
+If an insurance company is in an impaired financial condition, the Commissioner may file an application for an order to take control of its affairs for the purpose of improving its condition. This action is known as conservation. In the case of the insolvency of an admitted insurer, the commissioner shall prepare a report with respect to the causes and factors which contributed to that insolvency. The report shall be submitted to the Governor and to the Legislature no later than one year from the date of the insolvency.
+
+Whenever it appears that irreparable loss and injury to property or business may occur, the commissioner shall take possession of the property, business, books, records and accounts and of the offices and premises occupied for the transaction of business and retain possession subject to the order of the court. Any person having possession of and refusing to deliver any of the books, records or assets of a person against whom a seizure order has been issued shall be guilty of a misdemeanor and punishable by fine not exceeding one thousand dollars or imprisonment not exceeding one year, or both such fine and imprisonment.
+
+If at any time after instituting proceeding under this article, it shall appear to the commissioner that it would be futile to proceed as conservator with the conduct of the business of that person, he or she may apply to the court for an order to liquidate and wind up the business of the person. Upon a full hearing of that application, the court may make an order directing the winding up and liquidation of the business of that person by the commissioner, as liquidator.
+The court may issue an order to liquidate and wind up the business based solely on the verified application and hearing, without further hearing, or may issue an order to liquidate and wind up the business of the person upon application by the commissioner.
+
+BE ABLE TO DEFINE AN INSOLVENT INSURER, SECTION 985 OF THE CIC:
+
+THE DEFINITION OF AN INSOLVENT INSURER INCLUDES EITHER:
+
+The definition of an insolvent insurer includes either:
+
+• Any impairment of minimum "paid-in capital" or "capital paid in," required in the aggregate of an insurer by the provisions of this code for the class, or classes, of insurance that it transacts anywhere; and,
+• An inability of the insurer to meet its financial obligations when they are do.
+
+KNOW THAT AN INSURER CANNOT ESCAPE THE CONDITION OF INSOLVENCY BY BEING ABLE TO PROVIDE FOR ALL ITS LIABILITIES AND FOR REINSURANCE OF ALL OUTSTANDING RISKS. AN INSURER MUST ALSO BE POSSESSED OF ADDITIONAL ASSETS EQUIVALENT TO SUCH AGGREGATE "PAID-IN CAPITAL" OR "CAPITAL PAID IN" REQUIRED BY THIS CODE AFTER MAKING PROVISION FOR ALL SUCH LIABILITIES AND FOR SUCH REINSURANCE, SECTIONS 985(A)(1 AND 2) OF THE CIC;
+
+An insolvent insurer's financial stability and financial strength is to the point where policyholders and the public may be harmed. In order to be solvent, an insurer must not only be able to provide for its liabilities and reinsure capital risks but must also possess additional assets equivalent to the required paid-in capital.
+
+KNOW THE DEFINITION OF “PAID-IN CAPITAL,” SECTIONS 36 AND 985 OF THE CIC; AND,
+
+Paid-in capital is the value of an insurer’s assets in excess of the sum of its liabilities for losses reported, expenses, taxes, and all other indebtedness and reinsurance of outstanding risks as provided by law.
+In the case of a foreign mutual insurer not issuing or having outstanding capital stock, the value of its assets in excess of the sum of its liabilities for losses reported, expenses, taxes, and all other indebtedness and reinsurance of outstanding risks as provided by law. Such foreign mutual insurer shall not be admitted unless its paid-in capital is composed of available cash assets amounting to at least $200,000.00.
+
+In the case of a foreign joint stock and mutual insurer, its paid-in capital computed, according to its desire. In the case of all other insurers, the lower of the following amounts:
+
+• The value of its assets in excess of the sum of its liabilities for losses reported, expenses, taxes, and all other indebtedness and reinsurance of outstanding risks as provided by law.
+• The aggregate par value of its issued shares of stock, including treasury shares.
+
+KNOW THAT IT IS A MISDEMEANOR TO REFUSE TO DELIVER ANY BOOKS, RECORDS, OR ASSETS TO THE COMMISSIONER ONCE A SEIZURE ORDER HAS BEEN EXECUTED IN AN INSOLVENCY PROCEEDING, SECTION 1013 OF THE CIC.
+
+Whenever it appears to the commissioner that any of the conditions suggesting insolvency exist or that irreparable loss and injury to the property and business of a person conducting insurance business has occurred or may occur unless the commissioner acts immediately, the commissioner, without notice and before applying to the court for any order, forthwith shall take possession of the property, business, books, records and accounts of such person, and of the offices and premises occupied by it for the transaction of its business, and retain possession subject to the order of the court. Any person having possession of and refusing to deliver any of the books, records or assets of a person against whom a seizure order has been issued by the commissioner, shall be guilty of a misdemeanor and punishable by fine not exceeding one thousand dollars or imprisonment not exceeding one year, or both such fine and imprisonment.
+

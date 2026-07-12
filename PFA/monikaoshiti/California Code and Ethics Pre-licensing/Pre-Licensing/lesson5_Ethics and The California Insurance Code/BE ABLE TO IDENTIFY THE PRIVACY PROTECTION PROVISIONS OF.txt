@@ -1,0 +1,156 @@
+BE ABLE TO IDENTIFY THE PRIVACY PROTECTION PROVISIONS OF:
+THE CALIFORNIA FINANCIAL INFORMATION PRIVACY ACT, SECTIONS 4050 - 4060 OF THE CALIFORNIA FINANCIAL CODE (SENATE BILL 1, CHAPTER 241, STATUTES OF 2004);
+
+Also referred to as Cal-Gramm Leach Bliley Act, section 4050 of the California Financial Code unites the federal Gramm-Leach-Bliley Act (GLBA) with the Insurance Information Privacy and Protection Act (IPPA) contained in the California Insurance Code to afford greater privacy protections than those provided by the GLBA (Gramm-Leach-Bliley Act). The California Financial Information Privacy Act requires implementation of greater “opt-out/opt-in” choices with enhanced privacy requirements. According to SB1, Financial institutions shall not sell, share, transfer, or otherwise disclose nonpublic personal information to or with any non-affiliated third parties without the explicit prior consent of the consumer to whom the nonpublic personal information relates. Meaning the company must receive consumer permission (opt-in) prior to the selling or sharing of information with an outside company. The GLBA only required giving customers the option to optout.
+
+Financial institutions shall not disclose to, or share a consumer’s nonpublic personal information with an affiliate unless the financial institution has clearly and conspicuously notified the consumer annually in writing that the nonpublic personal information may be disclosed to an affiliate of the financial institution and the consumer has not directed that the nonpublic personal information not be disclosed. Meaning the company must not only notify the consumer if it intends to share information with affiliates and subsidiaries, but it must also give the consumer the option to stop sharing the information if they object (opt-out). The GLBA did not require giving customers the option to opt-out.
+
+Financial institutions with whom the consumer has a relationship may release nonpublic personal information to a non-affiliated financial institution for purposes of jointly offering a financial product or financial service pursuant to a written agreement with the financial institution that receives the nonpublic personal information provided that all of the following requirements are met:
+
+
+• The financial product or service offered is a product or service of at least one of the financial institutions that is a party to the written agreement.
+• The financial product or service is jointly offered, endorsed, or sponsored, and clearly and conspicuously identifies for the consumer the financial institutions that disclose and receive the disclosed nonpublic personal information.
+• The written agreement provides that the financial institution that receives that nonpublic personal information is required to maintain the confidentiality of the information and is prohibited from disclosing or using the information other than to carry out the joint offering or servicing of a financial product or financial service that is the subject of the written agreement.
+• The financial institution that releases the nonpublic personal information has complied with form requirements and the consumer has not directed that the nonpublic personal information not be disclosed.
+If a financial institution does not have a continuing relationship with a consumer other than the initial transaction in which the product or service is provided, no annual disclosure requirement exists as long as the financial institution provides the consumer with the form required at the time of the initial transaction.
+
+
+Financial institutions must provide a clear, concise, and easily readable form of no more than one page titled “IMPORTANT PRIVACY CHOICES FOR CONSUMERS” providing the customer with their options regarding information sharing.
+
+
+The consumer shall be provided a reasonable opportunity prior to disclosure of nonpublic personal information to direct that nonpublic personal information not be disclosed. A consumer may direct at any time that his or her nonpublic personal information not be disclosed. A financial institution shall comply with a consumer’s directions concerning the sharing of his or her nonpublic personal information within 45 days of receipt by the financial institution. When a consumer directs that nonpublic personal information not be disclosed, that direction is in effect until otherwise stated by the consumer.
+
+
+INSURANCE INFORMATION AND PRIVACY PROTECTION ACT REGARDING PRACTICES, PROHIBITIONS AND PENALTIES, SECTIONS 791 THROUGH 791.26 OF THE CIC;
+
+The CIC states that the Insurance Information and Privacy Protection Act is designed to protect the public against the publishing or making public personal information of an individual. This regulation requires that an insurer provide a clear and conspicuous notice that accurately reflects its privacy policy. Whenever an application is completed, a policy is delivered or a policy is renewed and personal information is collected from an insured or applicant, a written notice should be provided to them. At the latest, this notice must be provided by the time a policy is delivered. This notice shall state:
+
+• if personal information is to be collected from persons other than the individual proposed for coverage;
+• what type of information is going to be collected;
+• the circumstances under which disclosure of personal information may be made without authorization of the applicant/insured; and
+• the fact that information obtained from a report prepared by an insurance-support organization may be retained by the organization and disclosed to other persons.
+
+Insurers are allowed to secure personal information in order to make underwriting decisions according to the Fair Credit Reporting Act and California regulations. The CIC also provides an individual with the ability to access the personal information compiled by an insurance company or organization. Once a request is made, the insurance organization must provide the individual with the information in writing, by phone or by some other means (i.e., mail) within 30 days. The insurer must also notify the individual of any other person to whom such information was provided during the previous two years. If any of the information is untrue, false or incorrect, the individual may request the insurance organization to amend it or make appropriate changes. Once requested, the insurance organization has 30 days to make corrections or to inform the individual that it is refusing to do so.
+
+Section 791 of the CIC states that the Act prohibits the use of pretext interviews which are those conducted under false pretenses to obtain information in connection with an insurance transaction. Insurance institutions and producers must provide a notice of information practices to all applicants or policyholders in connection with insurance transactions.
+
+In the case of a written application for insurance, a notice must be provided no later than:
+
+• at the time of policy delivery when personal information is collected only from the applicant, an insured or public record; or
+• at the time the collection of personal information is collected from a source other than the applicant, an insured or public record. In the case of policy renewal, a notice must be provided no later than the policy renewal date or the date upon which policy renewal is confirmed. No notice is required if personal information is collected only from the policyowner, an insured or public record, or if a notice has been provided within the previous twenty-four months.
+
+In the case of policy reinstatement or change in insurance benefits, a notice must be provided no later than the time a request for reinstatement or change in benefits is received by the insurer. The notice of information must state the following:
+
+• whether personal information may be collected from persons other than the proposed insured;
+• the types of personal information that may be collected and the types of sources and investigative techniques that may be used;
+• the circumstances under which disclosure of certain information may be made without prior authorization;
+• description of the insured’s right to the recorded personal information about him or her and the insured’s right to request corrections to this information; and
+• that information obtained from an insurance support organization may be retained by the insurance support organization and disclosed to other persons.
+
+An insurance institution or agent must clearly specify any questions designed solely for marketing or research purposes. If the Commissioner has reason to believe that any person is violating this Act, he or she will be issued a cease and desist order. If the guilty party knows or should have known he or she was committing a violation of the Act, a license may be suspended or revoked. Life insurance producers have fiduciary responsibilities to an insurer and a policyowner and must act in good faith to all parties.
+
+If, after a hearing, the commissioner determines that the insurance institution, agent or insurance-support organization charged has engaged in conduct or practices in violation of this Act, the commissioner shall issue and cause to be served an order requiring such insurance institution, agent or insurance-support organization to cease and desist from the conduct or practices constituting a violation of this article. Any person who violates a cease and desist order of the commissioner may, after notice and hearing and upon order of the commissioner, be subject to one or more of the following penalties, at the discretion of the commissioner:
+
+• A monetary fine of not more than $10,000 for each violation; or not more than $50,000 if the commissioner finds that violations have occurred with such frequency as to constitute a general business practice; or Suspension or revocation of an insurance institution’s or agent’s license if the insurance institution or agent knew or reasonably should have known it was in violation of this article.
+• Any person whose rights are violated may apply to any court of competent jurisdiction, for appropriate equitable relief.
+• An insurance institution, agent or insurance-support organization which discloses information in violation of this section shall be liable for damages sustained by the individual about whom the information relates. However no individual shall be entitled to a monetary award which exceeds the actual damages sustained by the individual as a result of such violation.
+• Any person who knowingly and willfully obtains information about an individual from an insurance institution, agent or insurance-support organization under false pretenses shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+PRIVACY OF NON-PUBLIC PERSONAL INFORMATION (10 CAL. CODE OF REGS. SECTIONS 2689.4 THROUGH 2689.22)
+
+A licensee, typically a business licensee, must provide a clear and conspicuous notice that accurately reflects its privacy policies and practices to:
+
+• A customer, not later than when the licensee establishes a customer relationship; and
+• A consumer, claimant, or beneficiary before the licensee discloses any nonpublic personal information about the consumer, claimant, or beneficiary to any nonaffiliated third party.
+The initial, annual, and revised privacy notices that a licensee provides must, at a minimum, include each of the following that applies to the licensee and to the consumers to whom the licensee sends its privacy notice:
+• The categories of nonpublic personal information that the licensee collects;
+• The categories of nonpublic personal information that the licensee discloses;
+• The categories of affiliates and nonaffiliated third parties to whom the licensee discloses nonpublic personal information, and the general types of businesses in which the third parties engage if the information is disclosed;
+• The categories of nonpublic personal information about the licensee's former customers that the licensee discloses and the categories of affiliates and nonaffiliated third parties to whom the licensee discloses nonpublic personal information about the licensee's former customers;
+• If a licensee wishes to disclose or reserve the right to disclose nonpublic personal financial information to an affiliate for marketing purposes without affirmative authorization or the right to opt out of that disclosure, a statement explaining that the licensee may disclose nonpublic personal financial information to affiliates for marketing purposes without obtaining prior authorization and the law does not allow customers to restrict that disclosure;
+• An explanation of the consumer's right to opt out of the disclosure of nonpublic personal financial information to nonaffiliated third parties, including the methods by which the consumer may exercise that right at that time;
+• Any disclosures that the licensee makes under the federal Fair Credit Reporting Act regarding the ability to opt out of disclosures of information among affiliates;
+• The licensee's policies and practices with respect to protecting the confidentiality and security of nonpublic personal information, including a general description as to who is authorized to have access to the information;
+• If applicable, a statement that the consumer has the right to access and request correction of recorded nonpublic personal information and a brief description of the manner in which those rights may be exercised; and
+• The categories of disclosures that the licensee makes under California’s Insurance Information and Privacy Protection Act.
+
+A consumer may exercise the right to opt out at any time. A licensee may share marketing information with nonaffiliated third parties if a consumer does not respond within 30 days. A licensee may not share information for marketing purposes before the conclusion of the 30-day time period. If a consumer provides an opt-out direction after the licensee has begun sharing nonpublic personal financial information, the licensee must comply with the opt-out direction no later than 30 days after the licensee receives the opt out direction. A consumer's direction to opt out is effective until the consumer revokes it in writing or electronically, at the consumer's choice.
+
+When a customer relationship terminates, the customer's opt out direction continues to apply to the nonpublic personal financial information that the licensee collected during or related to that relationship. If the individual subsequently establishes a new customer relationship with the licensee, the opt out direction that applied to the former relationship does not apply to the new relationship.
+
+Each licensee must also implement a comprehensive written information security program that includes administrative, technical and physical safeguards for the protection of customer information. The administrative, technical, and physical safeguards included in the information security program must be appropriate to the size and complexity of the licensee and the nature and scope of its activities.
+
+A licensee's information security program shall be designed to:
+• Ensure the security and confidentiality of customer information;
+• Protect against any anticipated threats or hazards to the security or integrity of such information; and
+• Protect against unauthorized access to or use of such information that could result in substantial harm or inconvenience to any customer.
+
+A licensee monitors, evaluates, and adjusts, as appropriate, the information security program in light of any relevant changes in technology, the sensitivity of its customer information, internal or external threats to information, and the licensee's own changing business arrangements, such as mergers and acquisitions, outsourcing arrangements, and changes to customer information systems. The Commissioner will audit a licensee's compliance with this article in a manner and with such frequency as the Commissioner deems necessary.
+
+A licensee may not unfairly discriminate against any consumer or customer because that consumer or customer has opted out from the disclosure of his or her nonpublic personal information pursuant to the provisions of these regulations.
+
+HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA).
+The HIPAA Privacy Rule provides federal protections for an individual’s health information and gives patients an array of rights with respect to that information.
+
+CALIFORNIA CONSUMER PRIVACY ACT OF 2018 (EFFECTIVE JANUARY 1, 2020)
+
+The California Consumer Privacy Act of 2018 (CCPA) gives consumers more control over the personal information that businesses collect about them and the CCPA regulations provide guidance on how to implement the law. This landmark law secures new privacy rights for California consumers, including:
+
+• The right to know about the personal information a business collects about them and how it is used and shared;
+• The right to delete personal information collected from them (with some exceptions);
+• The right to opt-out of the sale or sharing of their personal information; and
+• The right to non-discrimination for exercising their CCPA rights.
+
+In November of 2020, California voters approved Proposition 24, the California Privacy Rights Act (CPRA), which amended the CCPA and added new additional privacy protections that began on January 1, 2023. As of January 1, 2023, consumers have new rights in addition to those above, such as:
+
+• The right to correct inaccurate personal information that a business has about them; and
+• The right to limit the use and disclosure of sensitive personal information collected about them.
+
+Businesses that are subject to the CCPA have several responsibilities, including responding to consumer requests to exercise these rights and giving consumers certain notices explaining their privacy practices. The CCPA applies to many businesses, including data brokers.
+
+Note, the CPRA amends the CCPA; it does not create a separate, new law. For this reason it is rare that you will see the CPRA mentioned separately and the law and its amendments are generally referred to only as the California Consumer Privacy Act of 2018 or CCPA.
+
+CALIFORNIA’S “SHINE THE LIGHT” LAW (CALIFORNIA CIVIL CODE SECTION 1798.83)
+
+“Personal information” as used in this section means any information that when it was disclosed identified, described, or was able to be associated with an individual and includes all of the following:
+
+• An individual’s name and address;
+• Electronic mail address (email address);
+• Age or date of birth;
+• Names of children;
+• Electronic mail or other addresses of children;
+• Number of children;
+• The age or gender of children;
+• Height;
+• Weight;
+• Race;
+• Religion;
+• Occupation;
+• Telephone number;
+• Education;
+• Political party affiliation;
+• Medical condition;
+• Drugs, therapies, or medical products or equipment used;
+• The kind of product the customer purchased, leased, or rented;
+• Real property purchased, leased, or rented;
+• The kind of service provided;
+• Social security number;
+• Bank account number;
+• Credit card number;
+• Debit card number;
+• Bank or investment account, debit card, or credit card balance;
+• Payment history; and
+• Information pertaining to creditworthiness, assets, income, or liabilities.
+
+If a business has an established business relationship with a customer and has, within the immediately preceding calendar year, disclosed personal information that corresponds to any of the categories of the previously mentioned personal information to third parties, and if the business knows or reasonably should know that the third parties used the personal information for the third parties’ direct marketing purposes, that business must, after the receipt of a customer request, provide all of the following information to the customer free of charge:
+
+• A list of the categories that correspond to the personal information disclosed by the business to third parties for the third parties’ direct marketing purposes during the immediately preceding calendar year; and
+
+• The names and addresses of all of the third parties that received personal information from the business for the third parties’ direct marketing purposes during the preceding calendar year and, if the nature of the third parties’ business cannot reasonably be determined from the third parties’ name, examples of the products or services marketed, if known to the business, sufficient to give the customer a reasonable indication of the nature of the third parties’ business.
+
+A business required to comply with these rules must designate a mailing address, electronic mail address, or, if the business chooses to receive requests by telephone or fax, a toll-free telephone or fax number, to which customers may deliver requests. The response to a request under these rules must be provided within 30 days.
+
+A business that is required to comply with this section is not obligated to do so in response to a request from a customer more than once during the course of any calendar year. A business with fewer than 20 full-time or part-time employees is exempt from the requirements of this section.
+
+ 
+

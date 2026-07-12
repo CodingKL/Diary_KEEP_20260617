@@ -1,0 +1,40 @@
+PRODUCERS [SECTIONS 31, 33, 34, 1621 THROUGH 1624, 1631, AND 1633 OF THE CIC]
+
+INSURANCE TRANSACTION [CIC SECTION 35]
+
+
+Section 35 of the CIC describes transacting insurance. Transacting insurance includes solicitation and negotiation of insurance plans as well as the execution of a contract of insurance. In addition, transactions of matters subsequent to and arising out of a contract of insurance are also considered to be “transacting insurance.” For example, advising on coverages and claims.
+Negotiation is the act of conferring directly with or offering advice directly to the purchaser of an insurance contract concerning any of the substantive benefits, terms or conditions of the contract if the person engaged in the act either sells insurance or obtains insurance from insurers for purchasers. Selling insurance is to exchange a contract of insurance by any means, for money or its equivalent, on behalf of an insurer. Solicitation is attempting to sell insurance or asking or urging a person to apply for a particular kind of insurance from a particular insurer. Executing a contract means making coverage effective by issuing a plan while any transactions subsequent to the issuing of a contract, such as servicing the policy, are also considered within the scope of this definition.
+
+
+INSURANCE AGENT VERSUS LIFE AGENT [CIC SECTION 31, 1621, AND 1622]
+
+
+Section 31, 1621 and 1622 differentiate between an “insurance agent” and a “life insurance agent.” The former (i.e., insurance agent) is a person licensed to sell all classes of insurance except life, disability and health insurance. Therefore, the terminology insurance agent does not include life agent. The latter (i.e., life agent) is a person licensed to sell life, disability and health insurance.
+INSURANCE SOLICITOR [CIC SECTIONS 34 AND 1624]
+
+
+According to Sections 34 and 1624, an insurance solicitor is a natural person employed to aid an insurance agent or broker in transacting insurance other than life, disability and health insurance.
+
+
+BROKER [CIC SECTION 33 AND 1623]
+
+
+Section 33 and 1623 describes broker as a person who, for compensation and on behalf of another person, transacts insurance other than life, disability and health insurance with, but not on behalf of, an insurer.
+There is no such thing as a life or health broker.
+
+
+LIFE SETTLEMENT BROKER [CIC SECTION 10113.1-10113.3]
+
+
+A life settlement provider is a legal entity (e.g., person, partnership, corporation, LLC, trust, etc.) that enters into a life settlement contract with the owner of a life insurance policy (or a certificate holder covered by group life insurance). A life settlement is the sale, transfer, assignment or bequest of the death benefit or ownership of a life insurance policy by the owner where an insured does not have a catastrophic or life threatening (i.e., terminal) illness. This is where it is different than a viatical settlement. The life settlement provider pays compensation to the owner of the policy in an amount less than the expected death benefit in return for the owner’s assignment or transfer of the policy (to the provider). Since the new owner now possesses all the rights of ownership, it changes the beneficiary to itself so that when the insured dies, the life insurance settlement or policy proceeds are paid to the firm. Upon the transfer of ownership, the business entity is now responsible for paying the premium and usually experiences a profit when the insured party dies. The former policyowner receives a lump sum amount in return for “selling” the contract to the life settlement firm. Life settlements usually involve the sale of life insurance policies by owners that are senior citizens or where the insured may have a medical condition that will likely result in a shortened life expectancy.
+
+A life settlement broker means a person who, on behalf of an owner, and for a fee, commission, or other valuable consideration, offers or attempts to negotiate life settlement contracts between an owner and a life settlement providers. A life settlement broker represents only the owner and owes a fiduciary duty to the owner to act according to the owner’s instructions, and in the best interest of the owner, regardless of the manner in which the broker is compensated (CIC 10113.1(b)).
+For life settlement transactions, an insured’s identity and personal financial and medical information may not be disclosed unless it is:
+• necessary to effect a life settlement contract and the owner/insured have provided written consent;
+• necessary to effectuate the sale of life settlement contracts as an investment, provided the applicable securities laws are followed and the owner/insured have provided prior written consent;
+• provided in response to an investigation examination by the Commissioner;
+• a condition to the transfer of a settled life insurance policy by one provider to another provider, and the receiving provider agrees to comply with the Insurance Code’s confidentiality provisions;
+• that the owner has the right to rescind the agreement for fifteen days following effectuation; and
+• necessary to allow the provider, life settlement broker, or their authorized representative to make contact for purposes of determining health status of the insured.
+

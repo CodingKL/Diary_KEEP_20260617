@@ -1,0 +1,32 @@
+BE ABLE TO DIFFERENTIATE BETWEEN REGULATION OF AN ADMITTED INSURER AND NON-ADMITTED INSURER, AND THE POTENTIAL CONSEQUENCES FOR CONSUMERS, SECTIONS 24, 25, AND 1760 THROUGH 1780 OF THE CIC;
+Each surplus lines broker must make a diligent search among admitted insurers to see if such coverage may be procured or secured from them. Proof that at least three admitted insurers have declined such a risk must be provided (or proof that less than three admitted insurers write such coverage). A nonadmitted insurer may be a foreign or alien carrier. If a nonadmitted or surplus lines carrier is not domiciled in one of the United States or its territories, it must have in force in the U.S. an irrevocable trust account in a qualified financial institution of not less than $5.4 million in liquid assets (i.e., cash and / or securities) in order to protect U.S. policyholders. Such insurers must also provide the Commissioner with an annual statement or an audited financial report, or if an alien insurer, a certified copy of the aforementioned trust agreement. In making a determination concerning financial stability, reputation and integrity of a nonadmitted insurer, the Commissioner shall consider any analyses, findings or conclusions made by the NAIC in its review of the insurer. Both admitted and nonadmitted insurers are subject to California advertising regulations. In addition, the Commissioner may examine the accounts and records of each at any time. Nonadmitted insurers may be sued upon any cause of action arising in this State under any surplus lines contract made by it. Any policy or evidence of insurance issued by the surplus lines insurer or the SL broker shall contain a provision stating the substance of this regulation and designating the person to whom the Commissioner shall mail service of process. Any surplus lines broker who has his or her license suspended for a reason other than the insufficiency of sureties, shall be unable to secure a license for one year after such revocation or suspension and until all indebtedness of the broker on former business has been paid to the Commissioner. Further, any licensees must notify the Commissioner of any change of business or residence address. Admitted and nonadmitted insurers are regulated by the Commissioner in order to protect consumers. Every licensee must file with the Commissioner his or her legal name. In addition, all fictitious names (i.e., D.B.A.) under which he or she conducts business must be disclosed as well. If the Commissioner determines that any of these other names may mislead the public, the licensee will not be permitted to use them. If a licensee is utilizing more than two names, any additional names requested may be denied. Following the issuance of the license, any changes in name or address must be provided to the Commissioner. A life insurance agent who has a service contract with a corporation licensed under the California Insurance Code or who is a stockholder or member of any incorporated association may use the corporation’s name on any stationery, advertisements or other printed material used for the agent’s business. However, the use of the corporation or association name should not in any way mislead the public. It is also important for agents, insurers and policyowners that insurance business be retained. In other words, retention of business is significant. The persistency of business is obviously advantageous for insurers and producers. However, it is similarly essential for consumers since it indicates that they continue to have financial protection.
+
+BE ABLE TO IDENTIFY THE PENALTY FOR UNLAWFULLY ACTING AS AN AGENT FOR A NON-ADMITTED INSURER OR BROKER OR AIDING A NON-ADMITTED INSURER TO TRANSACT INSURANCE BUSINESS IN THIS STATE FOR A HOME STATE INSURED AS DEFINED IN CAL. INS. CODE SECTION 1760.1 (F)
+
+Unless the agent is a surplus line broker, the following acts are misdemeanors when done in California:
+
+• Acting as an agent for a nonadmitted insurer in the transaction of insurance business in California for an insured whose home state is California;
+• In any manner advertising a nonadmitted insurer in California;
+• In any other manner aiding a nonadmitted insurer to transact insurance business in California for an insured whose home state is California.
+
+In addition to any penalty provided for misdemeanors, a person violating any of these rules must pay a $500 penalty to California, as well as an additional $100 for each month or part of a month that the agent continues the violation.
+
+BE ABLE TO IDENTIFY WHO MAY BE AN INSURER AND UNDERSTAND THE DEFINITION OF “PERSON,” SECTIONS 19 AND 150 OF THE CIC.
+
+“Person” means any person, association, organization, partnership, business trust, limited liability company, or corporation.
+Any person capable of making a contract may be an insurer.
+A person shall be considered a resident of this state if the person’s last known mailing address, as shown in the records of the insurance institution, agent, or insurance-support organization, is located in this state.
+
+BE ABLE TO DIFFERENTIATE BETWEEN MUTUAL, STOCK AND FRATERNAL INSURERS.
+
+A mutual company includes both mutual insurance companies and mutual holding companies. It cannot issue shares of common stock with voting rights. Instead, members of the mutual company are entitled to vote for board members who oversee matters related to the governance of the organization. Unlike stockholders who have many votes based on the number of shares they own, each member has one vote regardless of how many policies they own.
+
+A “stock insurer” is a corporation authorized to issue one or more classes of capital stock which includes shares of voting stock.
+
+Fraternal associations are benevolent societies or social organizations which provide insurance only for their members. These organizations operate on a lodge system and due to their charitable nature they are exempt from federal income and state taxes.
+
+KNOW THAT DE-MUTUALIZATION IS A PROCESS WHEREBY A MUTUAL INSURER BECOMES A STOCK COMPANY.
+
+Demutualization is the process whereby a mutual insurer becomes or converts to a stock company. Existing policyholders are provided with shares of stock in proportion to their gross insurance premiums. This is often used to raise funding via the sale of stock.
+
+
