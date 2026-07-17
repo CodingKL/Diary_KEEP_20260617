@@ -1,0 +1,9 @@
+
+
+This type of agent authority is defined or contained within in the agent contract or agreement.
+
+A.Legal Authority
+B.Implied Authority
+C.Apparent Authority
+D.Expressed Authority
+
