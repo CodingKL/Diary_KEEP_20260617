@@ -1,0 +1,16 @@
+
+According to the California Insurance Code, 
+which of the following is NOT an example of an insurable event?
+A.An insured is admitted to the hospital for delivery of a newborn
+B.An insured suffers a financial loss in the state lottery
+C.A guest is injured by a fall from the insured’s driveway
+D.An insured is sued for unintentional slander of another person
+
+--------------------------------------------------------------------------------------------------------------
+❌ An insured suffers a financial loss in the state lottery (or losing money in a poker game / gambling) is NOT an example of an insurable event under the California Insurance Code.
+
+Explanation of the Correct Option
+According to Section 250 of the California Insurance Code, an insurable event is defined as any contingent or unknown event, whether past or future, which may damnify a person having an insurable interest or create a liability against them.
+
+Insurance can only protect against pure risks, which carry only the chance of a loss or no loss. A lottery or a poker game is a speculative risk, which involves a conscious choice to gamble for the chance of either a financial gain or a financial loss. Speculative risks are fundamentally uninsurable.
+
